@@ -1,0 +1,3210 @@
+[
+  {
+    "id": "0",
+    "name": "Kodansha Comics"
+  },
+  {
+    "id": "1",
+    "name": "Kensington Publishing Corp."
+  },
+  {
+    "id": "2",
+    "name": "Dark Horse Comics"
+  },
+  {
+    "id": "3",
+    "name": "HarperCollins UK"
+  },
+  {
+    "id": "4",
+    "name": "Titan Books"
+  },
+  {
+    "id": "5",
+    "name": "Tor Books"
+  },
+  {
+    "id": "6",
+    "name": "HarperCollins"
+  },
+  {
+    "id": "7",
+    "name": "Pan Macmillan"
+  },
+  {
+    "id": "8",
+    "name": "Hachette UK"
+  },
+  {
+    "id": "9",
+    "name": "Marvel Entertainment"
+  },
+  {
+    "id": "10",
+    "name": "Blake Pierce"
+  },
+  {
+    "id": "11",
+    "name": "Tor Fantasy"
+  },
+  {
+    "id": "12",
+    "name": "IDW Publishing"
+  },
+  {
+    "id": "13",
+    "name": "Kodansha America LLC"
+  },
+  {
+    "id": "14",
+    "name": "Bookouture"
+  },
+  {
+    "id": "15",
+    "name": "Harper Collins"
+  },
+  {
+    "id": "16",
+    "name": "Icon Books"
+  },
+  {
+    "id": "17",
+    "name": "Del Rey"
+  },
+  {
+    "id": "18",
+    "name": "Random House"
+  },
+  {
+    "id": "19",
+    "name": "Penguin"
+  },
+  {
+    "id": "20",
+    "name": "Penguin"
+  },
+  {
+    "id": "21",
+    "name": "e-artnow"
+  },
+  {
+    "id": "22",
+    "name": "Del Rey"
+  },
+  {
+    "id": "23",
+    "name": "Penguin"
+  },
+  {
+    "id": "24",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "25",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "26",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "27",
+    "name": "Red Wheel/Weiser"
+  },
+  {
+    "id": "28",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "29",
+    "name": "DC"
+  },
+  {
+    "id": "30",
+    "name": "Clarkson Potter"
+  },
+  {
+    "id": "31",
+    "name": "Kings Road Publishing"
+  },
+  {
+    "id": "32",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "33",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "34",
+    "name": "Random House"
+  },
+  {
+    "id": "35",
+    "name": "Penguin"
+  },
+  {
+    "id": "36",
+    "name": "Profile Books"
+  },
+  {
+    "id": "37",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "38",
+    "name": "AMACOM"
+  },
+  {
+    "id": "39",
+    "name": "Penguin"
+  },
+  {
+    "id": "40",
+    "name": "Profile Books"
+  },
+  {
+    "id": "41",
+    "name": "Bantam"
+  },
+  {
+    "id": "42",
+    "name": "Bantam"
+  },
+  {
+    "id": "43",
+    "name": "Random House"
+  },
+  {
+    "id": "44",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "45",
+    "name": "Penguin"
+  },
+  {
+    "id": "46",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "47",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "48",
+    "name": "DC"
+  },
+  {
+    "id": "49",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "50",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "51",
+    "name": "Andrews McMeel Publishing"
+  },
+  {
+    "id": "52",
+    "name": "Andrews McMeel Publishing"
+  },
+  {
+    "id": "53",
+    "name": "DGS"
+  },
+  {
+    "id": "54",
+    "name": "Currency"
+  },
+  {
+    "id": "55",
+    "name": "DC Comics"
+  },
+  {
+    "id": "56",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "57",
+    "name": "Courier Corporation"
+  },
+  {
+    "id": "58",
+    "name": "Wizards of the Coast"
+  },
+  {
+    "id": "59",
+    "name": "Metropolitan Books"
+  },
+  {
+    "id": "60",
+    "name": "One Acre Press"
+  },
+  {
+    "id": "61",
+    "name": "Del Rey"
+  },
+  {
+    "id": "62",
+    "name": "Island Books"
+  },
+  {
+    "id": "63",
+    "name": "Penguin"
+  },
+  {
+    "id": "64",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "65",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "66",
+    "name": "Penguin Group"
+  },
+  {
+    "id": "67",
+    "name": "Random House"
+  },
+  {
+    "id": "68",
+    "name": "Michael Manning"
+  },
+  {
+    "id": "69",
+    "name": "e-artnow"
+  },
+  {
+    "id": "70",
+    "name": "Penguin"
+  },
+  {
+    "id": "71",
+    "name": "Penguin"
+  },
+  {
+    "id": "72",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "73",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "74",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "75",
+    "name": "Profile Books"
+  },
+  {
+    "id": "76",
+    "name": "Penguin"
+  },
+  {
+    "id": "77",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "78",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "79",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "80",
+    "name": "DC"
+  },
+  {
+    "id": "81",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "82",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "83",
+    "name": "AMACOM"
+  },
+  {
+    "id": "84",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "85",
+    "name": "DC"
+  },
+  {
+    "id": "86",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "87",
+    "name": "AMACOM"
+  },
+  {
+    "id": "88",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "89",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "90",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "91",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "92",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "93",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "94",
+    "name": "Tim Duggan Books"
+  },
+  {
+    "id": "95",
+    "name": "Macmillan"
+  },
+  {
+    "id": "96",
+    "name": "Del Rey"
+  },
+  {
+    "id": "97",
+    "name": "Sara Rosett"
+  },
+  {
+    "id": "98",
+    "name": "DC"
+  },
+  {
+    "id": "99",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "100",
+    "name": "Doubleday"
+  },
+  {
+    "id": "101",
+    "name": "Harlequin"
+  },
+  {
+    "id": "102",
+    "name": "W. W. Norton & Company"
+  },
+  {
+    "id": "103",
+    "name": "Houghton Mifflin Harcourt"
+  },
+  {
+    "id": "104",
+    "name": "Sara Rosett"
+  },
+  {
+    "id": "105",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "106",
+    "name": "Abrams"
+  },
+  {
+    "id": "107",
+    "name": "BookRix"
+  },
+  {
+    "id": "108",
+    "name": "e-artnow"
+  },
+  {
+    "id": "109",
+    "name": "Del Rey"
+  },
+  {
+    "id": "110",
+    "name": "Random House"
+  },
+  {
+    "id": "111",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "112",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "113",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "114",
+    "name": "Farrar, Straus and Giroux"
+  },
+  {
+    "id": "115",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "116",
+    "name": "Random House"
+  },
+  {
+    "id": "117",
+    "name": "Wizards of the Coast"
+  },
+  {
+    "id": "118",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "119",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "120",
+    "name": "Penguin"
+  },
+  {
+    "id": "121",
+    "name": "Tim Duggan Books"
+  },
+  {
+    "id": "122",
+    "name": "Minotaur Books"
+  },
+  {
+    "id": "123",
+    "name": "Penguin"
+  },
+  {
+    "id": "124",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "125",
+    "name": "Metropolitan Books"
+  },
+  {
+    "id": "126",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "127",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "128",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "129",
+    "name": "BookRix"
+  },
+  {
+    "id": "130",
+    "name": "Strelbytskyy Multimedia Publishing"
+  },
+  {
+    "id": "131",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "132",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "133",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "134",
+    "name": "Hay House, Inc"
+  },
+  {
+    "id": "135",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "136",
+    "name": "Macmillan"
+  },
+  {
+    "id": "137",
+    "name": "Doubleday"
+  },
+  {
+    "id": "138",
+    "name": "Penguin"
+  },
+  {
+    "id": "139",
+    "name": "Bantam"
+  },
+  {
+    "id": "140",
+    "name": "Random House"
+  },
+  {
+    "id": "141",
+    "name": "Kings Road Publishing"
+  },
+  {
+    "id": "142",
+    "name": "Bantam"
+  },
+  {
+    "id": "143",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "144",
+    "name": "Dell"
+  },
+  {
+    "id": "145",
+    "name": "Bantam"
+  },
+  {
+    "id": "146",
+    "name": "AMACOM"
+  },
+  {
+    "id": "147",
+    "name": "DC"
+  },
+  {
+    "id": "148",
+    "name": "Strelbytskyy Multimedia Publishing"
+  },
+  {
+    "id": "149",
+    "name": "Random House"
+  },
+  {
+    "id": "150",
+    "name": "Random House"
+  },
+  {
+    "id": "151",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "152",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "153",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "154",
+    "name": "e-artnow"
+  },
+  {
+    "id": "155",
+    "name": "e-artnow"
+  },
+  {
+    "id": "156",
+    "name": "Andrews McMeel Publishing"
+  },
+  {
+    "id": "157",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "158",
+    "name": "Jana DeLeon"
+  },
+  {
+    "id": "159",
+    "name": "Penguin"
+  },
+  {
+    "id": "160",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "161",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "162",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "163",
+    "name": "e-artnow"
+  },
+  {
+    "id": "164",
+    "name": "AMACOM"
+  },
+  {
+    "id": "165",
+    "name": "AMACOM"
+  },
+  {
+    "id": "166",
+    "name": "Harlequin"
+  },
+  {
+    "id": "167",
+    "name": "Random House"
+  },
+  {
+    "id": "168",
+    "name": "Macmillan"
+  },
+  {
+    "id": "169",
+    "name": "Random House"
+  },
+  {
+    "id": "170",
+    "name": "W. W. Norton & Company"
+  },
+  {
+    "id": "171",
+    "name": "Random House"
+  },
+  {
+    "id": "172",
+    "name": "Penguin"
+  },
+  {
+    "id": "173",
+    "name": "Del Rey"
+  },
+  {
+    "id": "174",
+    "name": "Open Road Media"
+  },
+  {
+    "id": "175",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "176",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "177",
+    "name": "DC"
+  },
+  {
+    "id": "178",
+    "name": "e-artnow"
+  },
+  {
+    "id": "179",
+    "name": "Random House"
+  },
+  {
+    "id": "180",
+    "name": "DC"
+  },
+  {
+    "id": "181",
+    "name": "Wizards of the Coast"
+  },
+  {
+    "id": "182",
+    "name": "Penguin"
+  },
+  {
+    "id": "183",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "184",
+    "name": "Penguin"
+  },
+  {
+    "id": "185",
+    "name": "Penguin"
+  },
+  {
+    "id": "186",
+    "name": "Penguin"
+  },
+  {
+    "id": "187",
+    "name": "Image Comics, Inc."
+  },
+  {
+    "id": "188",
+    "name": "Selective Entertainment LLC"
+  },
+  {
+    "id": "189",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "190",
+    "name": "DGS"
+  },
+  {
+    "id": "191",
+    "name": "Penguin"
+  },
+  {
+    "id": "192",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "193",
+    "name": "Penguin"
+  },
+  {
+    "id": "194",
+    "name": "Kings Road Publishing"
+  },
+  {
+    "id": "195",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "196",
+    "name": "Penguin"
+  },
+  {
+    "id": "197",
+    "name": "BookRix"
+  },
+  {
+    "id": "198",
+    "name": "DC"
+  },
+  {
+    "id": "199",
+    "name": "Selective Entertainment LLC"
+  },
+  {
+    "id": "200",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "201",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "202",
+    "name": "Farrar, Straus and Giroux"
+  },
+  {
+    "id": "203",
+    "name": "Penguin"
+  },
+  {
+    "id": "204",
+    "name": "Disha Publications"
+  },
+  {
+    "id": "205",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "206",
+    "name": "DC"
+  },
+  {
+    "id": "207",
+    "name": "Profile Books"
+  },
+  {
+    "id": "208",
+    "name": "Wizards of the Coast"
+  },
+  {
+    "id": "209",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "210",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "211",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "212",
+    "name": "Random House"
+  },
+  {
+    "id": "213",
+    "name": "Jana DeLeon"
+  },
+  {
+    "id": "214",
+    "name": "e-artnow"
+  },
+  {
+    "id": "215",
+    "name": "AMACOM"
+  },
+  {
+    "id": "216",
+    "name": "Abrams"
+  },
+  {
+    "id": "217",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "218",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "219",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "220",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "221",
+    "name": "W. W. Norton & Company"
+  },
+  {
+    "id": "222",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "223",
+    "name": "Penguin"
+  },
+  {
+    "id": "224",
+    "name": "Jana DeLeon"
+  },
+  {
+    "id": "225",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "226",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "227",
+    "name": "DC Comics"
+  },
+  {
+    "id": "228",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "229",
+    "name": "Penguin Group"
+  },
+  {
+    "id": "230",
+    "name": "AMACOM"
+  },
+  {
+    "id": "231",
+    "name": "DC"
+  },
+  {
+    "id": "232",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "233",
+    "name": "AMACOM"
+  },
+  {
+    "id": "234",
+    "name": "AMACOM"
+  },
+  {
+    "id": "235",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "236",
+    "name": "Harlequin"
+  },
+  {
+    "id": "237",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "238",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "239",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "240",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "241",
+    "name": "DC"
+  },
+  {
+    "id": "242",
+    "name": "Random House"
+  },
+  {
+    "id": "243",
+    "name": "AMACOM"
+  },
+  {
+    "id": "244",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "245",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "246",
+    "name": "Penguin"
+  },
+  {
+    "id": "247",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "248",
+    "name": "Tim Duggan Books"
+  },
+  {
+    "id": "249",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "250",
+    "name": "Vintage Crime/Black Lizard"
+  },
+  {
+    "id": "251",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "252",
+    "name": "AMACOM"
+  },
+  {
+    "id": "253",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "254",
+    "name": "Penguin"
+  },
+  {
+    "id": "255",
+    "name": "Michael Manning"
+  },
+  {
+    "id": "256",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "257",
+    "name": "Vintage"
+  },
+  {
+    "id": "258",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "259",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "260",
+    "name": "Wizards of the Coast"
+  },
+  {
+    "id": "261",
+    "name": "DC"
+  },
+  {
+    "id": "262",
+    "name": "e-artnow"
+  },
+  {
+    "id": "263",
+    "name": "Penguin"
+  },
+  {
+    "id": "264",
+    "name": "Penguin"
+  },
+  {
+    "id": "265",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "266",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "267",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "268",
+    "name": "Penguin"
+  },
+  {
+    "id": "269",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "270",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "271",
+    "name": "DGS"
+  },
+  {
+    "id": "272",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "273",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "274",
+    "name": "DC"
+  },
+  {
+    "id": "275",
+    "name": "Houghton Mifflin Harcourt"
+  },
+  {
+    "id": "276",
+    "name": "Bantam"
+  },
+  {
+    "id": "277",
+    "name": "AMACOM"
+  },
+  {
+    "id": "278",
+    "name": "Selective Entertainment LLC"
+  },
+  {
+    "id": "279",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "280",
+    "name": "Random House"
+  },
+  {
+    "id": "281",
+    "name": "Del Rey"
+  },
+  {
+    "id": "282",
+    "name": "BookRix"
+  },
+  {
+    "id": "283",
+    "name": "Penguin"
+  },
+  {
+    "id": "284",
+    "name": "Currency"
+  },
+  {
+    "id": "285",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "286",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "287",
+    "name": "Penguin"
+  },
+  {
+    "id": "288",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "289",
+    "name": "e-artnow"
+  },
+  {
+    "id": "290",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "291",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "292",
+    "name": "Del Rey"
+  },
+  {
+    "id": "293",
+    "name": "Tim Duggan Books"
+  },
+  {
+    "id": "294",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "295",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "296",
+    "name": "DC"
+  },
+  {
+    "id": "297",
+    "name": "Random House"
+  },
+  {
+    "id": "298",
+    "name": "Hay House, Inc"
+  },
+  {
+    "id": "299",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "300",
+    "name": "Penguin"
+  },
+  {
+    "id": "301",
+    "name": "Penguin"
+  },
+  {
+    "id": "302",
+    "name": "Harlequin"
+  },
+  {
+    "id": "303",
+    "name": "DC"
+  },
+  {
+    "id": "304",
+    "name": "Archie Comic Publications"
+  },
+  {
+    "id": "305",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "306",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "307",
+    "name": "Andrews McMeel Publishing"
+  },
+  {
+    "id": "308",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "309",
+    "name": "Vintage Crime/Black Lizard"
+  },
+  {
+    "id": "310",
+    "name": "Del Rey"
+  },
+  {
+    "id": "311",
+    "name": "Dell"
+  },
+  {
+    "id": "312",
+    "name": "Penguin Group"
+  },
+  {
+    "id": "313",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "314",
+    "name": "AMACOM"
+  },
+  {
+    "id": "315",
+    "name": "Bantam"
+  },
+  {
+    "id": "316",
+    "name": "DC Comics"
+  },
+  {
+    "id": "317",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "318",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "319",
+    "name": "Random House"
+  },
+  {
+    "id": "320",
+    "name": "DC"
+  },
+  {
+    "id": "321",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "322",
+    "name": "Metropolitan Books"
+  },
+  {
+    "id": "323",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "324",
+    "name": "Random House"
+  },
+  {
+    "id": "325",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "326",
+    "name": "Random House"
+  },
+  {
+    "id": "327",
+    "name": "BookRix"
+  },
+  {
+    "id": "328",
+    "name": "Del Rey"
+  },
+  {
+    "id": "329",
+    "name": "Del Rey"
+  },
+  {
+    "id": "330",
+    "name": "DC Comics"
+  },
+  {
+    "id": "331",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "332",
+    "name": "Random House"
+  },
+  {
+    "id": "333",
+    "name": "Bantam"
+  },
+  {
+    "id": "334",
+    "name": "Clarkson Potter"
+  },
+  {
+    "id": "335",
+    "name": "Image Comics, Inc."
+  },
+  {
+    "id": "336",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "337",
+    "name": "DC"
+  },
+  {
+    "id": "338",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "339",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "340",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "341",
+    "name": "Image Comics"
+  },
+  {
+    "id": "342",
+    "name": "DC"
+  },
+  {
+    "id": "343",
+    "name": "Courier Corporation"
+  },
+  {
+    "id": "344",
+    "name": "Del Rey"
+  },
+  {
+    "id": "345",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "346",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "347",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "348",
+    "name": "Penguin"
+  },
+  {
+    "id": "349",
+    "name": "Open Road Media"
+  },
+  {
+    "id": "350",
+    "name": "DGS"
+  },
+  {
+    "id": "351",
+    "name": "Penguin"
+  },
+  {
+    "id": "352",
+    "name": "Del Rey"
+  },
+  {
+    "id": "353",
+    "name": "Penguin"
+  },
+  {
+    "id": "354",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "355",
+    "name": "Jana DeLeon"
+  },
+  {
+    "id": "356",
+    "name": "DC"
+  },
+  {
+    "id": "357",
+    "name": "AMACOM"
+  },
+  {
+    "id": "358",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "359",
+    "name": "Penguin"
+  },
+  {
+    "id": "360",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "361",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "362",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "363",
+    "name": "Archie Comic Publications"
+  },
+  {
+    "id": "364",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "365",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "366",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "367",
+    "name": "Macmillan"
+  },
+  {
+    "id": "368",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "369",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "370",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "371",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "372",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "373",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "374",
+    "name": "Penguin"
+  },
+  {
+    "id": "375",
+    "name": "Minotaur Books"
+  },
+  {
+    "id": "376",
+    "name": "Profile Books"
+  },
+  {
+    "id": "377",
+    "name": "Bantam"
+  },
+  {
+    "id": "378",
+    "name": "Bantam"
+  },
+  {
+    "id": "379",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "380",
+    "name": "Penguin"
+  },
+  {
+    "id": "381",
+    "name": "Open Road Media"
+  },
+  {
+    "id": "382",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "383",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "384",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "385",
+    "name": "Red Wheel/Weiser"
+  },
+  {
+    "id": "386",
+    "name": "Del Rey"
+  },
+  {
+    "id": "387",
+    "name": "Crown Business"
+  },
+  {
+    "id": "388",
+    "name": "Penguin"
+  },
+  {
+    "id": "389",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "390",
+    "name": "Penguin"
+  },
+  {
+    "id": "391",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "392",
+    "name": "Archie Comic Publications"
+  },
+  {
+    "id": "393",
+    "name": "AMACOM"
+  },
+  {
+    "id": "394",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "395",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "396",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "397",
+    "name": "Harlequin"
+  },
+  {
+    "id": "398",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "399",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "400",
+    "name": "DC"
+  },
+  {
+    "id": "401",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "402",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "403",
+    "name": "Hay House, Inc"
+  },
+  {
+    "id": "404",
+    "name": "DC"
+  },
+  {
+    "id": "405",
+    "name": "Random House"
+  },
+  {
+    "id": "406",
+    "name": "Bantam"
+  },
+  {
+    "id": "407",
+    "name": "Penguin Group"
+  },
+  {
+    "id": "408",
+    "name": "DC"
+  },
+  {
+    "id": "409",
+    "name": "Image Comics"
+  },
+  {
+    "id": "410",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "411",
+    "name": "DC"
+  },
+  {
+    "id": "412",
+    "name": "e-artnow"
+  },
+  {
+    "id": "413",
+    "name": "Selective Entertainment LLC"
+  },
+  {
+    "id": "414",
+    "name": "Bantam"
+  },
+  {
+    "id": "415",
+    "name": "Houghton Mifflin Harcourt"
+  },
+  {
+    "id": "416",
+    "name": "Del Rey"
+  },
+  {
+    "id": "417",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "418",
+    "name": "Workman Publishing"
+  },
+  {
+    "id": "419",
+    "name": "Random House"
+  },
+  {
+    "id": "420",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "421",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "422",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "423",
+    "name": "DC"
+  },
+  {
+    "id": "424",
+    "name": "DC Comics"
+  },
+  {
+    "id": "425",
+    "name": "Penguin"
+  },
+  {
+    "id": "426",
+    "name": "e-artnow"
+  },
+  {
+    "id": "427",
+    "name": "Penguin Group"
+  },
+  {
+    "id": "428",
+    "name": "Red Wheel/Weiser"
+  },
+  {
+    "id": "429",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "430",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "431",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "432",
+    "name": "Vintage"
+  },
+  {
+    "id": "433",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "434",
+    "name": "DGS"
+  },
+  {
+    "id": "435",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "436",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "437",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "438",
+    "name": "Penguin"
+  },
+  {
+    "id": "439",
+    "name": "Random House"
+  },
+  {
+    "id": "440",
+    "name": "W. W. Norton & Company"
+  },
+  {
+    "id": "441",
+    "name": "Jana DeLeon"
+  },
+  {
+    "id": "442",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "443",
+    "name": "AMACOM"
+  },
+  {
+    "id": "444",
+    "name": "Random House"
+  },
+  {
+    "id": "445",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "446",
+    "name": "Bantam"
+  },
+  {
+    "id": "447",
+    "name": "Image Comics, Inc."
+  },
+  {
+    "id": "448",
+    "name": "DC"
+  },
+  {
+    "id": "449",
+    "name": "Clarkson Potter"
+  },
+  {
+    "id": "450",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "451",
+    "name": "Penguin"
+  },
+  {
+    "id": "452",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "453",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "454",
+    "name": "Vintage Crime/Black Lizard"
+  },
+  {
+    "id": "455",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "456",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "457",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "458",
+    "name": "DC"
+  },
+  {
+    "id": "459",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "460",
+    "name": "DC"
+  },
+  {
+    "id": "461",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "462",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "463",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "464",
+    "name": "Image Comics"
+  },
+  {
+    "id": "465",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "466",
+    "name": "Abrams"
+  },
+  {
+    "id": "467",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "468",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "469",
+    "name": "Harlequin"
+  },
+  {
+    "id": "470",
+    "name": "Del Rey"
+  },
+  {
+    "id": "471",
+    "name": "One Acre Press"
+  },
+  {
+    "id": "472",
+    "name": "Del Rey"
+  },
+  {
+    "id": "473",
+    "name": "Penguin"
+  },
+  {
+    "id": "474",
+    "name": "DC"
+  },
+  {
+    "id": "475",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "476",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "477",
+    "name": "Penguin"
+  },
+  {
+    "id": "478",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "479",
+    "name": "Random House"
+  },
+  {
+    "id": "480",
+    "name": "Metropolitan Books"
+  },
+  {
+    "id": "481",
+    "name": "DC Comics"
+  },
+  {
+    "id": "482",
+    "name": "Disha Publications"
+  },
+  {
+    "id": "483",
+    "name": "DC"
+  },
+  {
+    "id": "484",
+    "name": "Tim Duggan Books"
+  },
+  {
+    "id": "485",
+    "name": "AMACOM"
+  },
+  {
+    "id": "486",
+    "name": "Random House"
+  },
+  {
+    "id": "487",
+    "name": "e-artnow"
+  },
+  {
+    "id": "488",
+    "name": "AMACOM"
+  },
+  {
+    "id": "489",
+    "name": "Penguin"
+  },
+  {
+    "id": "490",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "491",
+    "name": "Vintage"
+  },
+  {
+    "id": "492",
+    "name": "Courier Corporation"
+  },
+  {
+    "id": "493",
+    "name": "Macmillan"
+  },
+  {
+    "id": "494",
+    "name": "Strelbytskyy Multimedia Publishing"
+  },
+  {
+    "id": "495",
+    "name": "Penguin"
+  },
+  {
+    "id": "496",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "497",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "498",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "499",
+    "name": "Vintage"
+  },
+  {
+    "id": "500",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "501",
+    "name": "Selective Entertainment LLC"
+  },
+  {
+    "id": "502",
+    "name": "Random House"
+  },
+  {
+    "id": "503",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "504",
+    "name": "Doubleday"
+  },
+  {
+    "id": "505",
+    "name": "Penguin"
+  },
+  {
+    "id": "506",
+    "name": "Penguin"
+  },
+  {
+    "id": "507",
+    "name": "BookRix"
+  },
+  {
+    "id": "508",
+    "name": "Penguin"
+  },
+  {
+    "id": "509",
+    "name": "e-artnow"
+  },
+  {
+    "id": "510",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "511",
+    "name": "DC"
+  },
+  {
+    "id": "512",
+    "name": "Del Rey"
+  },
+  {
+    "id": "513",
+    "name": "Macmillan"
+  },
+  {
+    "id": "514",
+    "name": "Pan"
+  },
+  {
+    "id": "515",
+    "name": "DC"
+  },
+  {
+    "id": "516",
+    "name": "Dell"
+  },
+  {
+    "id": "517",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "518",
+    "name": "Sara Rosett"
+  },
+  {
+    "id": "519",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "520",
+    "name": "Image Comics"
+  },
+  {
+    "id": "521",
+    "name": "Penguin"
+  },
+  {
+    "id": "522",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "523",
+    "name": "Del Rey"
+  },
+  {
+    "id": "524",
+    "name": "Penguin"
+  },
+  {
+    "id": "525",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "526",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "527",
+    "name": "Macmillan"
+  },
+  {
+    "id": "528",
+    "name": "Del Rey"
+  },
+  {
+    "id": "529",
+    "name": "DC"
+  },
+  {
+    "id": "530",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "531",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "532",
+    "name": "Random House"
+  },
+  {
+    "id": "533",
+    "name": "Hay House, Inc"
+  },
+  {
+    "id": "534",
+    "name": "DC"
+  },
+  {
+    "id": "535",
+    "name": "AMACOM"
+  },
+  {
+    "id": "536",
+    "name": "Image Comics, Inc."
+  },
+  {
+    "id": "537",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "538",
+    "name": "Michael Manning"
+  },
+  {
+    "id": "539",
+    "name": "Penguin"
+  },
+  {
+    "id": "540",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "541",
+    "name": "e-artnow"
+  },
+  {
+    "id": "542",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "543",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "544",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "545",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "546",
+    "name": "DC"
+  },
+  {
+    "id": "547",
+    "name": "Workman Publishing"
+  },
+  {
+    "id": "548",
+    "name": "Random House"
+  },
+  {
+    "id": "549",
+    "name": "AMACOM"
+  },
+  {
+    "id": "550",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "551",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "552",
+    "name": "W. W. Norton & Company"
+  },
+  {
+    "id": "553",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "554",
+    "name": "DC"
+  },
+  {
+    "id": "555",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "556",
+    "name": "Disha Publications"
+  },
+  {
+    "id": "557",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "558",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "559",
+    "name": "Andrews McMeel Publishing"
+  },
+  {
+    "id": "560",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "561",
+    "name": "DC"
+  },
+  {
+    "id": "562",
+    "name": "Penguin"
+  },
+  {
+    "id": "563",
+    "name": "Del Rey"
+  },
+  {
+    "id": "564",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "565",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "566",
+    "name": "Penguin"
+  },
+  {
+    "id": "567",
+    "name": "Penguin"
+  },
+  {
+    "id": "568",
+    "name": "Penguin"
+  },
+  {
+    "id": "569",
+    "name": "Workman Publishing"
+  },
+  {
+    "id": "570",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "571",
+    "name": "Island Books"
+  },
+  {
+    "id": "572",
+    "name": "DC"
+  },
+  {
+    "id": "573",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "574",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "575",
+    "name": "Andrews McMeel Publishing"
+  },
+  {
+    "id": "576",
+    "name": "Pan"
+  },
+  {
+    "id": "577",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "578",
+    "name": "DC"
+  },
+  {
+    "id": "579",
+    "name": "DC"
+  },
+  {
+    "id": "580",
+    "name": "Currency"
+  },
+  {
+    "id": "581",
+    "name": "Dell"
+  },
+  {
+    "id": "582",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "583",
+    "name": "Penguin"
+  },
+  {
+    "id": "584",
+    "name": "Strelbytskyy Multimedia Publishing"
+  },
+  {
+    "id": "585",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "586",
+    "name": "Farrar, Straus and Giroux"
+  },
+  {
+    "id": "587",
+    "name": "Open Road Media"
+  },
+  {
+    "id": "588",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "589",
+    "name": "Pan"
+  },
+  {
+    "id": "590",
+    "name": "Del Rey"
+  },
+  {
+    "id": "591",
+    "name": "Random House"
+  },
+  {
+    "id": "592",
+    "name": "DC"
+  },
+  {
+    "id": "593",
+    "name": "Open Road Media"
+  },
+  {
+    "id": "594",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "595",
+    "name": "Kings Road Publishing"
+  },
+  {
+    "id": "596",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "597",
+    "name": "Random House"
+  },
+  {
+    "id": "598",
+    "name": "e-artnow"
+  },
+  {
+    "id": "599",
+    "name": "Del Rey"
+  },
+  {
+    "id": "600",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "601",
+    "name": "Workman Publishing"
+  },
+  {
+    "id": "602",
+    "name": "e-artnow"
+  },
+  {
+    "id": "603",
+    "name": "Macmillan"
+  },
+  {
+    "id": "604",
+    "name": "Random House"
+  },
+  {
+    "id": "605",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "606",
+    "name": "BookRix"
+  },
+  {
+    "id": "607",
+    "name": "Minotaur Books"
+  },
+  {
+    "id": "608",
+    "name": "Crown Business"
+  },
+  {
+    "id": "609",
+    "name": "Penguin"
+  },
+  {
+    "id": "610",
+    "name": "Nine99 Innovation Lab (OPC) Pvt Ltd"
+  },
+  {
+    "id": "611",
+    "name": "Sara Rosett"
+  },
+  {
+    "id": "612",
+    "name": "AMACOM"
+  },
+  {
+    "id": "613",
+    "name": "Bantam"
+  },
+  {
+    "id": "614",
+    "name": "Doubleday"
+  },
+  {
+    "id": "615",
+    "name": "Del Rey"
+  },
+  {
+    "id": "616",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "617",
+    "name": "Random House"
+  },
+  {
+    "id": "618",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "619",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "620",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "621",
+    "name": "Pan"
+  },
+  {
+    "id": "622",
+    "name": "Penguin"
+  },
+  {
+    "id": "623",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "624",
+    "name": "Penguin"
+  },
+  {
+    "id": "625",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "626",
+    "name": "Vintage Crime/Black Lizard"
+  },
+  {
+    "id": "627",
+    "name": "Penguin"
+  },
+  {
+    "id": "628",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "629",
+    "name": "AMACOM"
+  },
+  {
+    "id": "630",
+    "name": "Strelbytskyy Multimedia Publishing"
+  },
+  {
+    "id": "631",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "632",
+    "name": "AMACOM"
+  },
+  {
+    "id": "633",
+    "name": "BookRix"
+  },
+  {
+    "id": "634",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "635",
+    "name": "Farrar, Straus and Giroux"
+  },
+  {
+    "id": "636",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "637",
+    "name": "Minotaur Books"
+  },
+  {
+    "id": "638",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "639",
+    "name": "Metropolitan Books"
+  },
+  {
+    "id": "640",
+    "name": "Del Rey"
+  },
+  {
+    "id": "641",
+    "name": "DC"
+  },
+  {
+    "id": "642",
+    "name": "Minotaur Books"
+  },
+  {
+    "id": "643",
+    "name": "Del Rey"
+  },
+  {
+    "id": "644",
+    "name": "DC"
+  },
+  {
+    "id": "645",
+    "name": "Random House"
+  },
+  {
+    "id": "646",
+    "name": "Vintage Crime/Black Lizard"
+  },
+  {
+    "id": "647",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "648",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "649",
+    "name": "Image Comics"
+  },
+  {
+    "id": "650",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "651",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "652",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "653",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "654",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "655",
+    "name": "One Acre Press"
+  },
+  {
+    "id": "656",
+    "name": "W. W. Norton & Company"
+  },
+  {
+    "id": "657",
+    "name": "Clarkson Potter"
+  },
+  {
+    "id": "658",
+    "name": "DC"
+  },
+  {
+    "id": "659",
+    "name": "Penguin"
+  },
+  {
+    "id": "660",
+    "name": "DC"
+  },
+  {
+    "id": "661",
+    "name": "Wizards of the Coast"
+  },
+  {
+    "id": "662",
+    "name": "Pan"
+  },
+  {
+    "id": "663",
+    "name": "e-artnow"
+  },
+  {
+    "id": "664",
+    "name": "Penguin"
+  },
+  {
+    "id": "665",
+    "name": "Houghton Mifflin Harcourt"
+  },
+  {
+    "id": "666",
+    "name": "DC"
+  },
+  {
+    "id": "667",
+    "name": "Currency"
+  },
+  {
+    "id": "668",
+    "name": "Workman Publishing"
+  },
+  {
+    "id": "669",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "670",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "671",
+    "name": "AMACOM"
+  },
+  {
+    "id": "672",
+    "name": "Penguin"
+  },
+  {
+    "id": "673",
+    "name": "DC"
+  },
+  {
+    "id": "674",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "675",
+    "name": "Selective Entertainment LLC"
+  },
+  {
+    "id": "676",
+    "name": "Currency"
+  },
+  {
+    "id": "677",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "678",
+    "name": "Jana DeLeon"
+  },
+  {
+    "id": "679",
+    "name": "DC"
+  },
+  {
+    "id": "680",
+    "name": "AMACOM"
+  },
+  {
+    "id": "681",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "682",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "683",
+    "name": "Sara Rosett"
+  },
+  {
+    "id": "684",
+    "name": "Michael Manning"
+  },
+  {
+    "id": "685",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "686",
+    "name": "AMACOM"
+  },
+  {
+    "id": "687",
+    "name": "Houghton Mifflin Harcourt"
+  },
+  {
+    "id": "688",
+    "name": "Crown Business"
+  },
+  {
+    "id": "689",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "690",
+    "name": "Macmillan"
+  },
+  {
+    "id": "691",
+    "name": "Penguin"
+  },
+  {
+    "id": "692",
+    "name": "Berrett-Koehler Publishers"
+  },
+  {
+    "id": "693",
+    "name": "Disha Publications"
+  },
+  {
+    "id": "694",
+    "name": "Random House"
+  },
+  {
+    "id": "695",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "696",
+    "name": "Penguin"
+  },
+  {
+    "id": "697",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "698",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "699",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "700",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "701",
+    "name": "Red Wheel/Weiser"
+  },
+  {
+    "id": "702",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "703",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "704",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "705",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "706",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "707",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "708",
+    "name": "Michael Manning"
+  },
+  {
+    "id": "709",
+    "name": "Kings Road Publishing"
+  },
+  {
+    "id": "710",
+    "name": "AMACOM"
+  },
+  {
+    "id": "711",
+    "name": "Broadway Books"
+  },
+  {
+    "id": "712",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "713",
+    "name": "Island Books"
+  },
+  {
+    "id": "714",
+    "name": "Bantam"
+  },
+  {
+    "id": "715",
+    "name": "Vintage"
+  },
+  {
+    "id": "716",
+    "name": "Crown Business"
+  },
+  {
+    "id": "717",
+    "name": "Pan"
+  },
+  {
+    "id": "718",
+    "name": "Farrar, Straus and Giroux"
+  },
+  {
+    "id": "719",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "720",
+    "name": "AMACOM"
+  },
+  {
+    "id": "721",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "722",
+    "name": "Abrams"
+  },
+  {
+    "id": "723",
+    "name": "Abrams"
+  },
+  {
+    "id": "724",
+    "name": "Courier Corporation"
+  },
+  {
+    "id": "725",
+    "name": "Sara Rosett"
+  },
+  {
+    "id": "726",
+    "name": "Penguin"
+  },
+  {
+    "id": "727",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "728",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "729",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "730",
+    "name": "AMACOM"
+  },
+  {
+    "id": "731",
+    "name": "Houghton Mifflin Harcourt"
+  },
+  {
+    "id": "732",
+    "name": "Morgan Rice"
+  },
+  {
+    "id": "733",
+    "name": "Penguin"
+  },
+  {
+    "id": "734",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "735",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "736",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "737",
+    "name": "Ballantine Books"
+  },
+  {
+    "id": "738",
+    "name": "DC"
+  },
+  {
+    "id": "739",
+    "name": "Red Wheel/Weiser"
+  },
+  {
+    "id": "740",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "741",
+    "name": "Random House"
+  },
+  {
+    "id": "742",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "743",
+    "name": "DC"
+  },
+  {
+    "id": "744",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "745",
+    "name": "DC"
+  },
+  {
+    "id": "746",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "747",
+    "name": "Bloomsbury Publishing"
+  },
+  {
+    "id": "748",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "749",
+    "name": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA"
+  },
+  {
+    "id": "750",
+    "name": "Doubleday"
+  },
+  {
+    "id": "751",
+    "name": "Island Books"
+  },
+  {
+    "id": "752",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "753",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "754",
+    "name": "AMACOM"
+  },
+  {
+    "id": "755",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "756",
+    "name": "Macmillan"
+  },
+  {
+    "id": "757",
+    "name": "Faber & Faber"
+  },
+  {
+    "id": "758",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "759",
+    "name": "Random House"
+  },
+  {
+    "id": "760",
+    "name": "Open Road Media"
+  },
+  {
+    "id": "761",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "762",
+    "name": "Crown Business"
+  },
+  {
+    "id": "763",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "764",
+    "name": "e-artnow"
+  },
+  {
+    "id": "765",
+    "name": "AMACOM"
+  },
+  {
+    "id": "766",
+    "name": "Kensington Books"
+  },
+  {
+    "id": "767",
+    "name": "Penguin"
+  },
+  {
+    "id": "768",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "769",
+    "name": "Sara Rosett"
+  },
+  {
+    "id": "770",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "771",
+    "name": "Penguin"
+  },
+  {
+    "id": "772",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "773",
+    "name": "Pan"
+  },
+  {
+    "id": "774",
+    "name": "Springer Science & Business Media"
+  },
+  {
+    "id": "775",
+    "name": "Kings Road Publishing"
+  },
+  {
+    "id": "776",
+    "name": "Minotaur Books"
+  },
+  {
+    "id": "777",
+    "name": "Del Rey"
+  },
+  {
+    "id": "778",
+    "name": "DC"
+  },
+  {
+    "id": "779",
+    "name": "Clarkson Potter"
+  },
+  {
+    "id": "780",
+    "name": "HarperCollins Leadership"
+  },
+  {
+    "id": "781",
+    "name": "Dark Horse Comics (Single Issues)"
+  },
+  {
+    "id": "782",
+    "name": "Abrams"
+  },
+  {
+    "id": "783",
+    "name": "McGraw Hill Professional"
+  },
+  {
+    "id": "784",
+    "name": "e-artnow"
+  },
+  {
+    "id": "785",
+    "name": "Simon and Schuster"
+  },
+  {
+    "id": "786",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "787",
+    "name": "Del Rey"
+  },
+  {
+    "id": "788",
+    "name": "Dell"
+  },
+  {
+    "id": "789",
+    "name": "Del Rey"
+  },
+  {
+    "id": "790",
+    "name": "Bonnier Zaffre Ltd."
+  },
+  {
+    "id": "791",
+    "name": "Island Books"
+  },
+  {
+    "id": "792",
+    "name": "Del Rey"
+  },
+  {
+    "id": "793",
+    "name": "AMACOM"
+  },
+  {
+    "id": "794",
+    "name": "Penguin"
+  },
+  {
+    "id": "795",
+    "name": "AMACOM"
+  },
+  {
+    "id": "796",
+    "name": "AMACOM"
+  },
+  {
+    "id": "797",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "798",
+    "name": "Penguin"
+  },
+  {
+    "id": "799",
+    "name": "Penguin UK"
+  },
+  {
+    "id": "800",
+    "name": "Kogan Page Publishers"
+  },
+  {
+    "id": "801",
+    "name": "Penguin"
+  }
+]
