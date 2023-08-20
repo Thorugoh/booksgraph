@@ -2,13 +2,13 @@ import db from "./index.js";
 
 function getById(id){
   return new Promise((resolve, reject ) => {
-    db.get(`SELECT * FROM publishers WHERE ID = ?`, [id], (err, publisher) => {
+    db.get(`SELECT * FROM authors WHERE ID = ?`, [id], (err, author) => {
       if(err){
        return reject(err);
       }
       return resolve({
-        id: publisher.ID,
-        name: publisher.name,
+        id: author.ID,
+        name: author.name,
       })
     })
   })

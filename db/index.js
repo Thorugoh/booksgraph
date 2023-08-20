@@ -23,10 +23,10 @@ function createDbConnection(){
 
 function createPublishersTable(db){
   db.exec(`
-  CREATE TABLE publishers
+  CREATE TABLE authors
   (
     ID INTEGER PRIMARY KEY,
-    name TEXT
+    name TEXT NOT NULL UNIQUE
   )
   `)
 }
@@ -38,8 +38,10 @@ function createBooksTable(db){
     ID INTEGER PRIMARY KEY,
     title TEXT,
     description TEXT,
-    author TEXT,
-    publisherId INTEGER
+    authorId TEXT,
+    cover TEXT,
+    rating TEXT,
+    url TEXT
   )
   `)
 }

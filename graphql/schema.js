@@ -1,6 +1,6 @@
 const graphql = require('graphql');
 const books = require("../db/books");
-const publishers = require("../db/publishers");
+const publishers = require("../db/authors");
 
 const { GraphQLObjectType, GraphQLString, GraphQLID, GraphQLSchema, GraphQLList, GraphQLNonNull } = graphql;
 

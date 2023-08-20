@@ -1,6 +1,6 @@
 import { GraphQLError } from "graphql";
 import books from "../db/books.js";
-import publishers from "../db/publishers.js";
+import authors from "../db/authors.js";
 
 export const resolvers = {
   Query: {
@@ -12,21 +12,21 @@ export const resolvers = {
       }
       return book;
     },
-    publisher: async (_root, { id }) => {
-      const publisher = await publishers.getById(id)
-      if(!publisher){
-        throw notFoundError(`Publisher with id ${id} was not found`)
+    author: async (_root, { id }) => {
+      const author = await authors.getById(id)
+      if(!author){
+        throw notFoundError(`author with id ${id} was not found`)
       }
-      return publisher;
+      return author;
     }
   },
 
   Book: {
-    publisher: (book) => publishers.getById(book.publisherId)
+    author: (book) => authors.getById(book.authorId)
   },
 
-  Publisher: {
-    books: (publisher) => books.getAllByPublisherId(publisher.id)
+  Author: {
+    books: (author) => books.getAllByauthorId(author.id)
   }
 }
 

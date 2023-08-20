@@ -11,16 +11,18 @@ function getById(id){
         id: row.ID,
         title: row.title,
         description: row.description,
-        author: row.author,
-        publisherId: row.publisherId
+        authorId: row.authorId,
+        cover: row.cover,
+        rating: row.rating,
+        url: row.url
       })
     });
   })
 }
 
-function create({title, description, author, publisherId}){
+function create({title, description, authorId}){
   return new Promise((resolve, reject) => {
-    db.run(`INSERT INTO books(title, description, author, publisherId) VALUES(?, ?, ?, ?)`, [title, description, author, publisherId], (err) => {
+    db.run(`INSERT INTO books(title, description, authorId ) VALUES(?, ?, ?, ?)`, [title, description, authorId], (err) => {
       if(err){
         return reject(err);
       }
@@ -28,16 +30,15 @@ function create({title, description, author, publisherId}){
         id: this.lastId,
         title,
         description,
-        author,
-        publisherId
+        authorId
       })
     });
   })
 }
 
-function getAllByPublisherId(id){
+function getAllByauthorId(id){
   return new Promise((resolve, reject) => {
-    db.all(`SELECT ID id, title, description, author, publisherId FROM books WHERE publisherId = ?`, [id], (err, books) => {
+    db.all(`SELECT ID id, title, description, authorId, cover, url, rating FROM books WHERE authorId = ?`, [id], (err, books) => {
       if(err){
         return reject(err);
       }
@@ -48,7 +49,7 @@ function getAllByPublisherId(id){
 
 function getAll(){
   return new Promise((resolve, reject) => {
-    db.all(`SELECT ID id, title, description, author, publisherId FROM books LIMIT 100`, [], (err, rows) => {
+    db.all(`SELECT ID id, title, description, authorId, cover, url, rating FROM books LIMIT 100`, [], (err, rows) => {
       if(err){
         return reject(err);
       }
@@ -60,7 +61,7 @@ function getAll(){
 
 export default {
   getById,
-  getAllByPublisherId,
+  getAllByauthorId,
   getAll,
   create
 } 
