@@ -1,4 +1,4 @@
-const db = require("./index");
+import db from "./index.js";
 
 function getById(id){
   return new Promise((resolve, reject) => {
@@ -6,6 +6,7 @@ function getById(id){
       if(err){
         return reject(err);
       }
+      if(!row) return resolve(null);
       return resolve({
         id: row.ID,
         title: row.title,
@@ -57,7 +58,7 @@ function getAll(){
 }
 
 
-module.exports = {
+export default {
   getById,
   getAllByPublisherId,
   getAll,

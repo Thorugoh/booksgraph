@@ -1,5 +1,6 @@
-const fs = require("fs");
-const sqlite3 = require('sqlite3').verbose();
+import fs from "fs"
+import sqlite3 from "sqlite3";
+
 const filepath = "./books.db";
 
 function createDbConnection(){
@@ -43,4 +44,4 @@ function createBooksTable(db){
   `)
 }
 
-module.exports = createDbConnection();
+export default createDbConnection();

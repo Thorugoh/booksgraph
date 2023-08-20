@@ -1,4 +1,4 @@
-const db = require("./index");
+import db from "./index.js";
 
 function getById(id){
   return new Promise((resolve, reject ) => {
@@ -14,6 +14,6 @@ function getById(id){
   })
 }
 
-module.exports = {
+export default {
   getById,
 } 

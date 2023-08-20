@@ -14,9 +14,20 @@ const BookType = new GraphQLObjectType({
     publisherId: { type: GraphQLID },
     publisher: {
       type: PublisherType,
-      resolve(parent, args){
-        return publishers.getById(parent.publisherId);
-      }
+    }
+  })
+});
+
+const BooksType = new GraphQLObjectType({
+  name: 'Books',
+  fields: () => ({
+    id: { type: GraphQLID },
+    title: { type: GraphQLString },
+    author: { type: GraphQLString },
+    description: { type: GraphQLString },
+    publisherId: { type: GraphQLID },
+    publisher: {
+      type: PublisherType,
     }
   })
 });
