@@ -4,7 +4,11 @@ import authors from "../db/authors.js";
 
 export const resolvers = {
   Query: {
-    books: () => books.getAll(),
+    books: async (_root, { limit, offset }) => {
+      const result = await books.getAll(limit, offset)
+      const totalCount = await books.count();
+      return { items: result, totalCount };
+    },
     book: async (_root, { id }) => {
       const book = await books.getById(id);
       if(!book){

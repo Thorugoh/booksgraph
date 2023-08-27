@@ -20810,26 +20810,66 @@ let books = [
 
 let publisherId = 16
 
-let newBooks = books.map((book) => {
-  if(book.publisher){
-    publisherId++;
-    publishers.push({id: publisherId, name: book.publisher});
-    delete book.publisher
-    return {...book, publisherId}
-  }
-  return book;
-})
+// let newBooks = books.map((book) => {
+//   if(book.publisher){
+//     publisherId++;
+//     publishers.push({id: publisherId, name: book.publisher});
+//     delete book.publisher
+//     return {...book, publisherId}
+//   }
+//   return book;
+// })
 
-fs.writeFileSync("data/books.json", JSON.stringify(newBooks, null, 2), (err) => {
-  if(err){
-    console.log(err);
-  }
-})
+// fs.writeFileSync("data/books.json", JSON.stringify(newBooks, null, 2), (err) => {
+//   if(err){
+//     console.log(err);
+//   }
+// })
 
-fs.writeFileSync("data/publishers.json", JSON.stringify(publishers, null, 2), (err) => {
-  if(err){
-    console.log(err);
-  }
-})
+// fs.writeFileSync("data/publishers.json", JSON.stringify(publishers, null, 2), (err) => {
+//   if(err){
+//     console.log(err);
+//   }
+// })
 
+const sqlite3 = require('sqlite3').verbose();
+
+// Open a database connection
+const db = new sqlite3.Database('your_database.db');
+
+function insertDataIntoDB(data) {
+    // Iterate through the array of objects
+    data.forEach(item => {
+        // Insert author into the 'authors' table
+        db.run('INSERT INTO authors (name) VALUES (?)', [item.brand], function(err) {
+            if (err) {
+                console.error('Error inserting author:', err);
+                return;
+            }
+
+            const authorId = this.lastID; // Get the ID of the inserted author
+
+            // Insert book into the 'books' table
+            db.run(
+                'INSERT INTO books (title, description, author, cover, rating, url) VALUES (?, ?, ?, ?, ?, ?)',
+                [item.title, item.description, authorId, item.image_url, item.rating, item.url],
+                function(err) {
+                    if (err) {
+                        console.error('Error inserting book:', err);
+                        return;
+                    }
+
+                    console.log('Inserted book:', item.title);
+                }
+            );
+        });
+    });
+}
+
+// Call the function with your array of objects
+const dataArray = /* Your array of objects */;
+insertDataIntoDB(dataArray);
+
+// Close the database connection when finished
+db.close();
 

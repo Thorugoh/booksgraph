@@ -1,7 +1,12 @@
 type Query {
-  books:[Book!]
+  books(limit: Int, offset: Int): BooksSubList
   book(id: ID!): Book
   author(id: ID!): Author
+}
+
+type BooksSubList {
+  items: [Book!]
+  totalCount: Int
 }
 
 type Book {
