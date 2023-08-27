@@ -1,6 +1,6 @@
 import { GraphQLError } from "graphql";
 import books from "../db/books.js";
-import authors from "../db/authors.js";
+import authors, { authorsLoader } from "../db/authors.js";
 
 export const resolvers = {
   Query: {
@@ -26,7 +26,7 @@ export const resolvers = {
   },
 
   Book: {
-    author: (book) => authors.getById(book.authorId)
+    author: async (book) => await authorsLoader.load(book.authorId)
   },
 
   Author: {
